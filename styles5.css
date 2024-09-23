@@ -8,7 +8,7 @@ h1 {
 }
 
 .card {
-    background-color: #ffffffd6;
+    background-color: #ffffffd6; 
     border-radius: 15px;
     border: none;
 }
@@ -16,7 +16,7 @@ h1 {
 #colorBox {
     height: 250px;
     background-color: #000000;
-    border: 1px solid #ffffff;
+    border: 1px solid #ffffff;/*Borde de la caja*/
 }
 
 input[type="range"] {

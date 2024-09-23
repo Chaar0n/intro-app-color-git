@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", function() {
         colorPicker.value = hex;
     }
 
-    function syncInputWithSlider() {
+    function syncInputWithSlider() { /* H O L A S*/
         redValue.value = red.value;
         greenValue.value = green.value;
         blueValue.value = blue.value;
